@@ -22,25 +22,16 @@
 		   	 </ul>
 			<div class="tab">
         	 <div id="tab-1" class="tab-content" style="display: table;">
+		 <button id="deflate">Deflate</button><input type="number">
            </div>
            <div id="tab-2" class="tab-content">
+	   <button id="inflate">Inflate</button><input type="number">
            </div>
-          <div id="tab-3" class="tab-content">  	
+          <div id="tab-3" class="tab-content">
+	  <button id="transfer">Transfer</button><input type="number">
           </div> 
           <div id="tab-4" class="tab-content">  	
           </div> 
       </div>
-
-<div>
-<button id="deflate">Deflate</button><input type="number">
-</div>
-
-<div>
-<button id="inflate">Inflate</button><input type="number">
-</div>
-
-<div>
-<button id="transfer">Transfer</button><input type="number">
-</div>
 
 <script src="scripts.js"></script>
