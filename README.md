@@ -5,16 +5,24 @@
 <span id="dEthDay"></span>
 </div>
 
-<div id='dEth_supply'>
-<span type="number"></span>
+<div>
+<span id="dEth_supply"></span>
+</div>
+
+<div >
+<span id="balance"></span>
 </div>
 
 <div>
-<button id="deflate">Deflate</button><input type="number"></input>
+<button id="deflate">Deflate</button><input type="number">
 </div>
 
 <div>
-<button id="inflate">Inflate</button><input type="number"></input>
+<button id="inflate">Inflate</button><input type="number">
+</div>
+
+<div>
+<button id="transfer">Transfer</button><input type="number">
 </div>
 
 <script src="scripts.js"></script>
