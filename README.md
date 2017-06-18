@@ -13,38 +13,33 @@
 <span id="balance"></span>
 </div>
 
-<div id="tabs-container" style="padding: 15px;">
-		    	<ul class="tabs-menu">
-				<li class="current"><a href="#tab-1">Deflate</a></li>
-				<li><a href="#tab-2">Inflate</a></li>
-				<li><a href="#tab-3">Transfer</a></li>
-				<li><a href="#tab-4">Explorer</a></li>
-		   	 </ul>
-			<div class="tab">
-        	 <div id="tab-1" class="tab-content" style="display: table;">
-		 <button id="deflate">Deflate</button><input type="number">
-           </div>
-           <div id="tab-2" class="tab-content">
-	   <button id="inflate">Inflate</button><input type="number">
-           </div>
-          <div id="tab-3" class="tab-content">
-	  <button id="transfer">Transfer</button><input type="number">
-          </div> 
-          <div id="tab-4" class="tab-content">  	
-          </div> 
-      </div>
-	   <script>
-	$(document).ready(function() {
-    $(".tabs-menu a").click(function(event) {
-        event.preventDefault();
-        $(this).parent().addClass("current");
-        $(this).parent().siblings().removeClass("current");
-        var tab = $(this).attr("href");
-        $(".tab-content").not(tab).css("display", "none");
-        $(tab).fadeIn();
-    });
-});
-	    </script>
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'London')">Deflate</button>
+  <button class="tablinks" onclick="openCity(event, 'Paris')">Inflate</button>
+  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Transfer</button>
+  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Explorer</button>
+</div>
+
+<div id="Deflate" class="tabcontent">
+  <h3>Deflate</h3>
+  
+</div>
+
+<div id="Inflate" class="tabcontent">
+  <h3>Inflate</h3>
+
+</div>
+
+<div id="Transfer" class="tabcontent">
+  <h3>Transfer</h3>
+
+  
+</div>
+
+<div id="Explorer" class="tabcontent">
+  <h3>Explorer</h3>
+
+</div>
 <script src="scripts.js"></script>
 
 
