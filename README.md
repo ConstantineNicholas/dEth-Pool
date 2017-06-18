@@ -20,15 +20,15 @@
 </div>
 
 <div id="Deflate" class="tabcontent">
-  <input><button id="deflate">Deflate</button>
+  <input placeholder="enter amount in wei"><button id="deflate">Deflate</button>
 </div>
 
 <div id="Inflate" class="tabcontent">
-  <input><button id="inflate">Inflate</button>
+  <input placeholder="enter amount in wei"><button id="inflate">Inflate</button>
 </div>
 
 <div id="Transfer" class="tabcontent">
-<input><button id="transfer">Transfer</button>
+<input placeholder="enter amount in wei"><button id="transfer">Transfer</button>
 </div>
 
 <script src="scripts.js"></script>
