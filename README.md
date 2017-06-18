@@ -14,7 +14,7 @@
 </div>
 
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'Deflate')">Deflate</button>
+  <button class="tablinks" onclick="openCity(event, 'Deflate')" id="defaultOpen">Deflate</button>
   <button class="tablinks" onclick="openCity(event, 'Inflate')">Inflate</button>
   <button class="tablinks" onclick="openCity(event, 'Transfer')">Transfer</button>
   <button class="tablinks" onclick="openCity(event, 'Explorer')">Explorer</button>
