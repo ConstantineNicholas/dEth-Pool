@@ -21,15 +21,15 @@
 </div>
 
 <div id="Deflate" class="tabcontent">
-  <button>Deflate</button><input>
+  <input><button>Deflate</button>
 </div>
 
 <div id="Inflate" class="tabcontent">
-  <button>Inflate</button><input>
+  <input><button>Inflate</button>
 </div>
 
 <div id="Transfer" class="tabcontent">
- <button>Transfer</button><input>
+<input><button>Transfer</button>
 </div>
 
 <div id="Explorer" class="tabcontent">
