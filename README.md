@@ -14,10 +14,10 @@
 </div>
 
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'London')">Deflate</button>
-  <button class="tablinks" onclick="openCity(event, 'Paris')">Inflate</button>
-  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Transfer</button>
-  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Explorer</button>
+  <button class="tablinks" onclick="openCity(event, 'Deflate')">Deflate</button>
+  <button class="tablinks" onclick="openCity(event, 'Inflate')">Inflate</button>
+  <button class="tablinks" onclick="openCity(event, 'Transfer')">Transfer</button>
+  <button class="tablinks" onclick="openCity(event, 'Explorer')">Explorer</button>
 </div>
 
 <div id="Deflate" class="tabcontent">
