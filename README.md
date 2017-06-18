@@ -33,11 +33,8 @@
           <div id="tab-4" class="tab-content">  	
           </div> 
       </div>
-
-<script src="scripts.js"></script>
-
-<script> 
-$(document).ready(function() {
+	   <script>
+	$(document).ready(function() {
     $(".tabs-menu a").click(function(event) {
         event.preventDefault();
         $(this).parent().addClass("current");
@@ -47,4 +44,7 @@ $(document).ready(function() {
         $(tab).fadeIn();
     });
 });
-</script>
+	    </script>
+<script src="scripts.js"></script>
+
+
