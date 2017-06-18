@@ -33,3 +33,17 @@ div.tab button.active {
     border: 1px solid #ccc;
     border-top: none;
 }
+
+#deflate {
+    float:right;
+}
+
+#inflate {
+    float:right;
+}
+
+#transfer {
+    float:right;
+}
+
+
