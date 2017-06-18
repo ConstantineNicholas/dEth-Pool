@@ -1,3 +1,3 @@
 <div id='dEth_supply'>
-<input type="number">
+<span type="number"></span>
 </div>
