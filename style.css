@@ -46,4 +46,10 @@ div.tab button.active {
     float:right;
 }
 
+input {
+    border: none;  
+}
 
+input:focus {
+    outline:none;
+}
