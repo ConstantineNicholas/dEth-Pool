@@ -36,14 +36,32 @@ div.tab button.active {
 
 #deflate {
     float:right;
+    color: #fff;
+    text-align: center;
+    background-color: #159957;
+    background-image: linear-gradient(120deg, #155799, #159957);
+    border-radius: 20px;
+    width: 100px;
 }
 
 #inflate {
     float:right;
+    color: #fff;
+    text-align: center;
+    background-color: #159957;
+    background-image: linear-gradient(120deg, #155799, #159957);
+    border-radius: 20px;
+    width: 100px;
 }
 
 #transfer {
     float:right;
+    color: #fff;
+    text-align: center;
+    background-color: #159957;
+    background-image: linear-gradient(120deg, #155799, #159957);
+    border-radius: 20px;
+    width: 100px;
 }
 
 input {
