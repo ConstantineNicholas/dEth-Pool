@@ -21,24 +21,18 @@
 </div>
 
 <div id="Deflate" class="tabcontent">
-  <h3>Deflate</h3>
-  
+  <button>Deflate</button><input>
 </div>
 
 <div id="Inflate" class="tabcontent">
-  <h3>Inflate</h3>
-
+  <button>Inflate</button><input>
 </div>
 
 <div id="Transfer" class="tabcontent">
-  <h3>Transfer</h3>
-
-  
+ <button>Transfer</button><input>
 </div>
 
 <div id="Explorer" class="tabcontent">
-  <h3>Explorer</h3>
-
 </div>
 <script src="scripts.js"></script>
 
