@@ -5,7 +5,9 @@
 <div>
 <span id="Eth_supply"></span>
 </div>
-
+<div>
+<span id='dEthDay'>---d --h --m --s</span>
+</div>
 <div>
 <span id="dEth_supply"></span>
 </div>
