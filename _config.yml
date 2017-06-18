@@ -1,5 +1,2 @@
 theme: jekyll-theme-cayman
-safe: true
-project:
-    name: <Project Name>
-    tagline: "<span id='dEthDay'>---d --h --m --s</span>"
+tagline: "<span id='dEthDay'>---d --h --m --s</span>"
