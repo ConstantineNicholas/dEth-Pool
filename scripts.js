@@ -50,4 +50,4 @@ function openCity(evt, cityName) {
     evt.currentTarget.className += " active";
 }
 document.getElementById("defaultOpen").click();
-document.getElementsByClassName("project-tagline").outerHTML = "<span id='dEthDay'>---d --h --m --s</span>";
+document.getElementsByClassName("project-tagline").innerHTML = "<span id='dEthDay'>---d --h --m --s</span>";
