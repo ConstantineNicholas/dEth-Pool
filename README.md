@@ -13,6 +13,24 @@
 <span id="balance"></span>
 </div>
 
+<div id="tabs-container" style="padding: 15px;">
+		    	<ul class="tabs-menu">
+				<li class="current"><a href="#tab-1">Deflate</a></li>
+				<li><a href="#tab-2">Inflate</a></li>
+				<li><a href="#tab-3">Transfer</a></li>
+				<li><a href="#tab-4">Explorer</a></li>
+		   	 </ul>
+			<div class="tab">
+        	 <div id="tab-1" class="tab-content" style="display: table;">
+           </div>
+           <div id="tab-2" class="tab-content">
+           </div>
+          <div id="tab-3" class="tab-content">  	
+          </div> 
+          <div id="tab-4" class="tab-content">  	
+          </div> 
+      </div>
+
 <div>
 <button id="deflate">Deflate</button><input type="number">
 </div>
