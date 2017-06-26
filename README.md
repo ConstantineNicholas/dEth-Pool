@@ -21,15 +21,19 @@
 </div>
 
 <div id="Buy" class="tabcontent">
-  <input placeholder="enter amount in wei"><button id="buy">Submit</button>
+  <input placeholder="enter amount in wei">
+  <button id="buy">Submit</button>
 </div>
 
 <div id="Sell" class="tabcontent">
-  <input placeholder="enter amount in wei"><button id="sell">Submit</button>
+  <input placeholder="enter amount in dEth">
+  <button id="sell">Submit</button>
 </div>
 
 <div id="Transfer" class="tabcontent">
-<input placeholder="enter amount in wei"><button id="transfer">Submit</button>
+<input placeholder="enter amount in dEth">
+<input placeholder="enter address">
+<button id="transfer">Submit</button>
 </div>
 
 <script src="scripts.js"></script>
