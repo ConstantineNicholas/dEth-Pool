@@ -51,3 +51,8 @@ function openCity(evt, cityName) {
 }
 document.getElementById("defaultOpen").click();
 document.getElementsByClassName("project-tagline").innerHTML = "<span id='dEthDay'>---d --h --m --s</span>";
+
+//blockies
+var apiconAddress = party;
+var apicon = document.getElementById('addressicon');
+apicon.style.backgroundImage = 'url(' + blockies.create({ seed:apiconAddress, size: 8, scale: 16}).toDataURL()+')';
