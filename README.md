@@ -16,11 +16,11 @@
     <th>Sell Price**</th>
   </tr>
   <tr>
-    <td data-th="Balance"><span id="balance">-- (Ð)</span></td>
-    <td data-th="TotalSupply"><span id="totalSupply">-- (Ð)</span></td>
-    <td data-th="Deflation"><span id="deflation">-- (%)</span></td>
-    <td data-th="Buy Price"><span id="buyPrice">-- (Ξ/Ð)</span></td>
-    <td data-th="Sell Price"><span id="sellPrice">-- (Ð/Ξ)</span></td>
+    <td data-th="Balance"><span id="balance">-- </span>(Ð)</td>
+    <td data-th="TotalSupply"><span id="totalSupply">-- </span>(Ð)</td>
+    <td data-th="Deflation"><span id="deflation">-- </span>(%)</td>
+    <td data-th="Buy Price"><span id="buyPrice">-- </span>(Ξ/Ð)</td>
+    <td data-th="Sell Price"><span id="sellPrice">-- </span>(Ð/Ξ)</td>
   </tr>
 </table>
 </div>
