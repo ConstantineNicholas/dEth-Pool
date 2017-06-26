@@ -11,7 +11,7 @@
   <tr>
     <th>Balance</th>
     <th>TotalSupply</th>
-    <th>Deflation</th>
+    <th>Ξ Deflation</th>
     <th>Buy Price*</th>
     <th>Sell Price**</th>
   </tr>
