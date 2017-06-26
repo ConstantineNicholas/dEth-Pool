@@ -32,6 +32,7 @@
 
 <div id="Transfer" class="tabcontent">
 <input placeholder="enter amount in dEth">
+<br>
 <input placeholder="enter address">
 <button id="transfer">Submit</button>
 </div>
