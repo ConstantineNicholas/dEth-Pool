@@ -1,21 +1,20 @@
 <link rel='stylesheet' href='style.css' type='text/css'>
 <div id="message">This browser does not support Ethereum apps. Please download either <a href="http://ethereum.org">Mist</a> or <a href="https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en">MetaMask for Chrome</a>.</div>
 
-<table style="width:100%">
+<table class="rwd-table">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th>Balance</th>
+    <th>TotalSupply</th>
+    <th>Deflation</th>
+    <th>Buy Price</th>
+    <th>Sell Price*</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
-    <td>94</td>
+    <td data-th="Balance">0</td>
+    <td data-th="TotalSupply">0</td>
+    <td data-th="Deflation">0%</td>
+    <td data-th="Buy Price">0</td>
+    <td data-th="Sell Price">0</td>
   </tr>
 </table>
 
