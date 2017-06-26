@@ -7,15 +7,15 @@
     <th>Balance</th>
     <th>TotalSupply</th>
     <th>Deflation</th>
-    <th>Buy Price</th>
-    <th>Sell Price*</th>
+    <th>Buy Price*</th>
+    <th>Sell Price**</th>
   </tr>
   <tr>
-    <td data-th="Balance">0</td>
-    <td data-th="TotalSupply">0</td>
-    <td data-th="Deflation">0%</td>
-    <td data-th="Buy Price">0</td>
-    <td data-th="Sell Price">0</td>
+    <td data-th="Balance">--</td>
+    <td data-th="TotalSupply">--</td>
+    <td data-th="Deflation">--%</td>
+    <td data-th="Buy Price">--</td>
+    <td data-th="Sell Price">--</td>
   </tr>
 </table>
 </div>
