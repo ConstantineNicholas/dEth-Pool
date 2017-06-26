@@ -35,7 +35,7 @@ div.tab button.active {
 }
 
 #info {
-    margin: auto;
+   display: inline-table;
 }
 
 #buy {
@@ -56,8 +56,4 @@ input {
 
 input:focus {
     outline:none;
-}
-
-.main-content table {
-    display: contents !important;
 }
