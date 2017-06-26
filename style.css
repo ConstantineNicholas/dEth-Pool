@@ -34,11 +34,11 @@ div.tab button.active {
     border-top: none;
 }
 
-#deflate {
+#buy {
     float:right;
 }
 
-#inflate {
+#sell {
     float:right;
 }
 
