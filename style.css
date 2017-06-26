@@ -36,6 +36,7 @@ div.tab button.active {
 
 #info {
    display: inline-table;
+   text-align: center;
 }
 
 #buy {
