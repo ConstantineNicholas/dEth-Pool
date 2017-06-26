@@ -19,6 +19,7 @@
   </tr>
 </table>
 </div>
+<br>
 <div >
 <span id="balance"></span>
 </div>
