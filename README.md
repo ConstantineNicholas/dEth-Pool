@@ -15,17 +15,17 @@
 </div>
 
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'Deflate')" id="defaultOpen">Deflate</button>
-  <button class="tablinks" onclick="openCity(event, 'Inflate')">Inflate</button>
+  <button class="tablinks" onclick="openCity(event, 'Buy')" id="defaultOpen">Buy</button>
+  <button class="tablinks" onclick="openCity(event, 'Sell')">Sell</button>
   <button class="tablinks" onclick="openCity(event, 'Transfer')">Transfer</button>
 </div>
 
-<div id="Deflate" class="tabcontent">
-  <input placeholder="enter amount in wei"><button id="deflate">Submit</button>
+<div id="Buy" class="tabcontent">
+  <input placeholder="enter amount in wei"><button id="buy">Submit</button>
 </div>
 
-<div id="Inflate" class="tabcontent">
-  <input placeholder="enter amount in wei"><button id="inflate">Submit</button>
+<div id="Sell" class="tabcontent">
+  <input placeholder="enter amount in wei"><button id="sell">Submit</button>
 </div>
 
 <div id="Transfer" class="tabcontent">
