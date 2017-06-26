@@ -24,6 +24,7 @@
   <button class="tablinks" onclick="openCity(event, 'Buy')" id="defaultOpen">Buy</button>
   <button class="tablinks" onclick="openCity(event, 'Sell')">Sell</button>
   <button class="tablinks" onclick="openCity(event, 'Transfer')">Transfer</button>
+  <button class="tablinks" onclick="openCity(event, 'Explorer')">Explorer</button>
 </div>
 
 <div id="Buy" class="tabcontent">
@@ -41,6 +42,10 @@
 <br>
 <input placeholder="enter address">
 <button id="transfer">Submit</button>
+</div>
+
+<div id="Explorer" class="tabcontent">
+  Coming Soon!
 </div>
 
 <script src="scripts.js"></script>
