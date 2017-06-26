@@ -34,6 +34,10 @@ div.tab button.active {
     border-top: none;
 }
 
+#info {
+    margin: auto;
+}
+
 #buy {
     float:right;
 }
