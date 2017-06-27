@@ -6,21 +6,6 @@
 <a href='https://etherscan.io/address/" + "'><div id='addressicon"' class='icon'></div></a><span id="address">--</span>
 </div>
 
-<div class="absolute-center">
-	<div class="textfield textfield--floatingLabel">
-		<input class="textfield__input" type="text" required="required" id="homeSearch" />
-		<label class="textfield__label" for="HomeSearch">Label Text</label>
-	</div>
-	<div>
-		<div class="textfield textfield--floatingLabel">
-			<input class="textfield__input" type="text" required="required" value="Populated" id="homeSearch" />
-			<label class="textfield__label" for="HomeSearch">Label Text</label>
-		</div>
-	</div>
-</div>
-
-
-
 <div>
 <table id="info">
   <tr>
