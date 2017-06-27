@@ -55,8 +55,13 @@ input {
     border: none;  
     width: 100%;
     margin: 5px;
+    border-bottom: solid 1px gray;
 }
 
 input:focus {
     outline:none;
+}
+
+label {
+ margin: 5px;
 }
