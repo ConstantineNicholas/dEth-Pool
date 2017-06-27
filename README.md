@@ -35,13 +35,13 @@
 <div id="Buy" class="tabcontent">
  <label for="ethinput"> Amount:</label>
  <input id="Ethinput" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Ξ wei'" placeholder ="Ξ wei">
- <button id="buy">Submit</button>
+ <button id="buy">Buy</button>
 </div>
 
 <div id="Sell" class="tabcontent">
   <label for="dEthinput"> Amount:</label>
   <input id="dEthinput" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Ð wei'" placeholder ="Ð wei">
-  <button id="sell">Submit</button>
+  <button id="sell">Sell</button>
 </div>
 
 <div id="Transfer" class="tabcontent">
@@ -50,7 +50,7 @@
 <br>
 <label for="transferAmount"> Amount:</label>
 <input id="transferAmount" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Ð wei'" placeholder ="Ð wei">
-<button id="transfer">Submit</button>
+<button id="transfer">Transfer</button>
 </div>
 
 <div id="Explorer" class="tabcontent">
