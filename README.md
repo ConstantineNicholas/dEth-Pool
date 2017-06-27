@@ -5,12 +5,10 @@
 <div>
 <a href='https://etherscan.io/address/" + "'><div id='addressicon"' class='icon'></div></a><span id="address">--</span>
 </div>
-<span class="input input--hoshi">
-					<input class="input__field input__field--hoshi" type="text" id="input-4">
-					<label class="input__label input__label--hoshi input__label--hoshi-color-1" for="input-4">
-						<span class="input__label-content input__label-content--hoshi">Name</span>
-					</label>
-				</span>
+<div class="textfield textfield--floatingLabel">
+		<input class="textfield__input" type="text" required="required" id="homeSearch" />
+		<label class="textfield__label" for="HomeSearch">Label Text</label>
+	</div>
 <div>
 <table id="info">
   <tr>
