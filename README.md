@@ -2,7 +2,7 @@
 <script src="blockies.js"></script>
 <div id="message">This browser does not support Ethereum apps. Please download either <a href="http://ethereum.org">Mist</a> or <a href="https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en">MetaMask for Chrome</a>.</div>
 
-<div>
+<div style="text-align: center;">
 <a href='https://etherscan.io/address/" + "'><div id='addressicon"' class='icon'></div></a><span id="address">--</span>
 </div>
 
