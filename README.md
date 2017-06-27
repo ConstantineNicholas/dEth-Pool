@@ -33,19 +33,23 @@
 </div>
 
 <div id="Buy" class="tabcontent">
-  <input placeholder="enter amount in wei">
+  <input id="Ethinput">
+  <label for="ethinput">Ξ (wei)</label>
   <button id="buy">Submit</button>
 </div>
 
 <div id="Sell" class="tabcontent">
-  <input placeholder="enter amount in dEth">
+  <input id="dEthinput">
+  <label for="dEthinput">Ð (wei)</label>
   <button id="sell">Submit</button>
 </div>
 
 <div id="Transfer" class="tabcontent">
-<input placeholder="enter amount in dEth">
+<input id="transferAddress">
+<label for="transferAddress">To:</label>
 <br>
-<input placeholder="enter address">
+<input id="transferAmount">
+<label for="transferAmount"><Ð (wei)</label>
 <button id="transfer">Submit</button>
 </div>
 
