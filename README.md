@@ -57,6 +57,58 @@
   Coming Soon!
 </div>
 
+<ul class="social-icons">
+  <li class="icon icon--facebook">
+    <a href="#">
+      <span class="icon__name">Facebook</span>
+    </a>
+  </li>
+  <li class="icon icon--twitter">
+    <a href="#">
+      <span class="icon__name">Twitter</span>
+    </a>
+  </li>
+  <li class="icon icon--linkedin">
+    <a href="#">
+      <span class="icon__name">LinkedIn</span>
+    </a>
+  </li>
+  <li class="icon icon--instagram">
+    <a href="#">
+      <span class="icon__name">Instagram</span>
+    </a>
+  </li>
+  <li class="icon icon--flickr">
+    <a href="#">
+      <span class="icon__name">Flickr</span>
+    </a>
+  </li>
+  <li class="icon icon--spotify">
+    <a href="#">
+      <span class="icon__name">Spotify</span>
+    </a>
+  </li>
+  <li class="icon icon--soundcloud">
+    <a href="#">
+      <span class="icon__name">Soundcloud</span>
+    </a>
+  </li>
+  <li class="icon icon--lastfm">
+    <a href="#">
+      <span class="icon__name">Last.fm</span>
+    </a>
+  </li>
+  <li class="icon icon--kickstarter">
+    <a href="#">
+      <span class="icon__name">Kickstarter</span>
+    </a>
+  </li>
+  <li class="icon icon--github">
+    <a href="#">
+      <span class="icon__name">GitHub</span>
+    </a>
+  </li>
+</ul>
 <script src="scripts.js"></script>
 
 
