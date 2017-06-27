@@ -46,7 +46,7 @@
 
 <div id="Transfer" class="tabcontent">
 <label for="transferAddress"> To:</label>
-<input id="transferAddress">
+<input id="transferAddress" placeholder="Address">
 <br>
 <label for="transferAmount"> Amount:</label>
 <input id="transferAmount" placeholder="Ð wei">
