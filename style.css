@@ -41,14 +41,29 @@ div.tab button.active {
 
 #buy {
     margin: 5px;
+    border-radius: 5px;
+    background-image: linear-gradient(120deg, #155799, #159957);
+    color: white;
+    border: none;
+    width: 100px;
 }
 
 #sell {
     margin: 5px;
+    border-radius: 5px;
+    background-image: linear-gradient(120deg, #155799, #159957);
+    color: white;
+    border: none;
+    width: 100px;
 }
 
 #transfer {
     margin: 5px;
+    border-radius: 5px;
+    background-image: linear-gradient(120deg, #155799, #159957);
+    color: white;
+    border: none;
+    width: 100px;
 }
 
 input {
