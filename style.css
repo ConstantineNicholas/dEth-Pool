@@ -40,19 +40,21 @@ div.tab button.active {
 }
 
 #buy {
-    float:right;
+    margin: 5px;
 }
 
 #sell {
-    float:right;
+    margin: 5px;
 }
 
 #transfer {
-    float:right;
+    margin: 5px;
 }
 
 input {
     border: none;  
+    width: 100%;
+    margin: 5px;
 }
 
 input:focus {
