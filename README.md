@@ -33,23 +33,23 @@
 </div>
 
 <div id="Buy" class="tabcontent">
-  <input id="Ethinput">
-  <label for="ethinput">Ξ (wei)</label>
-  <button id="buy">Submit</button>
+ <label for="ethinput">Ξ (wei)</label>
+ <input id="Ethinput">
+ <button id="buy">Submit</button>
 </div>
 
 <div id="Sell" class="tabcontent">
-  <input id="dEthinput">
   <label for="dEthinput">Ð (wei)</label>
+  <input id="dEthinput">
   <button id="sell">Submit</button>
 </div>
 
 <div id="Transfer" class="tabcontent">
-<input id="transferAddress">
 <label for="transferAddress">To:</label>
+<input id="transferAddress">
 <br>
+<label for="transferAmount">Ð (wei)</label>
 <input id="transferAmount">
-<label for="transferAmount"><Ð (wei)</label>
 <button id="transfer">Submit</button>
 </div>
 
