@@ -14,7 +14,6 @@
     <th>Ξ Deflation</th>
     <th>Buy Price*</th>
     <th>Sell Price**</th>
-    <th>Fee</th>
   </tr>
   <tr>
     <td data-th="Balance"><span id="balance">-- </span>(Ð)</td>
@@ -22,7 +21,6 @@
     <td data-th="Deflation"><span id="deflation">-- </span>(%)</td>
     <td data-th="Buy Price"><span id="buyPrice">-- </span>(Ξ/Ð)</td>
     <td data-th="Sell Price"><span id="sellPrice">-- </span>(Ð/Ξ)</td>
-    <td data-th="Fee"><span id="fee">0.1  </span>(% Ð)</td>
   </tr>
 </table>
 </div>
